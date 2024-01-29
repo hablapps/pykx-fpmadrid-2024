@@ -1,2 +1,2 @@
-# pykx-fpmadrid-2024
-PyKX: a gateway drug into q
+# PyKX: A Gateway Drug into q
+This repository contains the notebooks associated with the talk of the same title that took place during the [Everything Everywhere All with kdb+/q](https://www.meetup.com/FP-Madrid/events/298030014) mini-conference on January 30th in Madrid. Associated slides can be found [here](https://docs.google.com/presentation/d/1cieXZ_77u_Wms4x4ikZw0AI7VMYXudKxNzEBePEqVbg/edit?usp=sharing).
